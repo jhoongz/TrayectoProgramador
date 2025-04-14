@@ -1,6 +1,6 @@
 # 🐍 Python | Ejercicios y Prácticas de Clase
 
-Este repositorio está pensado como un espacio de trabajo para almacenar y organizar ejercicios, prácticas y ejemplos desarrollados en clase o durante el estudio personaal de Trayecto Programador.
+Este repositorio está pensado como un espacio de trabajo para almacenar y organizar ejercicios, prácticas y ejemplos desarrollados en clase o durante el estudio personal de Trayecto Programador.
 
 ## 📌 ¿Qué vas a encontrar acá?
 
