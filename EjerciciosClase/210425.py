@@ -26,7 +26,7 @@ f1("Lando","Norris")
 f1("Jack","Doohan")
 f1()
 
-'''
+
 
 # con LISTAS
 
@@ -47,7 +47,7 @@ for i, corredor in enumerate(lista_corredores, start=1):
     print(f"Corredor #{i}: {corredor['nombre']} {corredor['apellido']}")
 
 f1()
-
+'''
 # Con DICCIONARIO
 
 def f1_2(first="Corredor", last="invitado"):
