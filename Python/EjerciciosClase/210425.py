@@ -21,7 +21,7 @@ def f1(first="Corredor",last="invitado"):
     print(first,last)
 
 f1("Franco","Colapinto")
-f1("Max", "Verstapen")
+f1("Max", "Verstappen")
 f1("Lando","Norris")
 f1("Jack","Doohan")
 f1()
