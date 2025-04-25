@@ -1,4 +1,4 @@
-# 🐍 Python | Ejercicios y Prácticas de Clase
+# 🧪 Ejercicios y Prácticas de Clase
 
 Este repositorio está pensado como un espacio de trabajo para almacenar y organizar ejercicios, prácticas y ejemplos desarrollados en clase o durante el estudio personal de Trayecto Programador.
 
@@ -9,8 +9,8 @@ Este repositorio está pensado como un espacio de trabajo para almacenar y organ
 - Pruebas de conceptos vistos en clase o estudiados por cuenta propia
 - Scripts sueltos que sirven como referencia o base para proyectos futuros
 
-> Aclaracion: PSeInt no es un lenaguje, es un IDE de pseudocodigo
-> La estructura puede ir cambiando o creciendo a medida que se agregan nuevos temas o proyectos.
+> Aclaracion: PSeInt no es un lenguaje, es un IDE de pseudocodigo.
+>  La estructura puede ir cambiando o creciendo a medida que se agregan nuevos temas o proyectos.
 
 ## ⚙️ Requisitos
 
@@ -22,14 +22,14 @@ Este repositorio asume que tenés instalado:
 
 Para correr los script, usá:
 
-### Para PSeInt
+### Para PSeInt 🧠
 ```bash
 El mismo programa de PSeInt
 ```
 
 
-### Para Python
+### Para Python 🐍 
 ```bash
 python nombre_del_script.py
 ```
-### Para C#
+### Para C# 💠
