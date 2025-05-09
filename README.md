@@ -18,7 +18,7 @@ Este repositorio asume que tenés instalado:
 
 - PSeInt
 - Python 3.8 o superior
-- Un editor de texto o IDE: Para Python puede ser VSCode o Puede usarse VSComunity tanto para Python como para C#
+- Un editor de texto o IDE: Para Python puede ser VSCode o Puede usarse VSCommunity tanto para Python como para C#
 
 Para correr los script, usá:
 
@@ -33,3 +33,6 @@ El mismo programa de PSeInt
 python nombre_del_script.py
 ```
 ### Para C# 💠
+```bash
+Recomiendo usar Visual Studio Community
+```
