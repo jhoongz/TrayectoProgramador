@@ -29,6 +29,7 @@ El mismo programa de PSeInt
 
 
 ### Para Python 🐍 
+Estar ubicado en la carpeta del archivo de Python (.py) con la terminal de windows (CMD) y escribir :
 ```bash
 python nombre_del_script.py
 ```
